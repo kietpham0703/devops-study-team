@@ -1,3 +1,3 @@
 Lap trinh an toan
 Khai Thac Lo Hong Phan Mem
-LAB1
+This text was added originally while in the feature branch
